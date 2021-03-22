@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformCURD2", "WinformCURD2\WinformCURD2.csproj", "{FBE609E1-F32D-45AB-B487-63A637062DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE609E1-F32D-45AB-B487-63A637062DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE609E1-F32D-45AB-B487-63A637062DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE609E1-F32D-45AB-B487-63A637062DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE609E1-F32D-45AB-B487-63A637062DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A964463D-3396-4136-98BC-96EC7BC277AA}
+	EndGlobalSection
+EndGlobal

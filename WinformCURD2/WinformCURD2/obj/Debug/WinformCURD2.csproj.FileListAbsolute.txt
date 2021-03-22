@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.Form1.resources
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\bin\Debug\WinformCURD2.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\bin\Debug\WinformCURD2.exe
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\bin\Debug\WinformCURD2.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.exe
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WinformCURD2\WinformCURD2\obj\Debug\WinformCURD2.pdb
